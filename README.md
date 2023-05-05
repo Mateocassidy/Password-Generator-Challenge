@@ -2,7 +2,7 @@
 
 
 ## Description ##
-With the starter code provided I did not add or remove anything in html or css. I added JavaScript code to make the password generator work. I used arrays, console.log, if statements, and ect. To use the password generator you click on the button. It will then ask you how many characters you would like between 8 and 128. If you select a valid number, next it will ask you if you would like uppercase/lowercase letters, numbers, or special characters. Once you input your password preferences it will generate a password for you. I also made comments on JavaScript.
+With the starter code provided I did not add or remove anything in html or css. I added JavaScript code to make the password generator meet the acceptance criteria. I used arrays, console.log, if statements, and ect. To use the password generator you click on the "Generate password" button. It will then ask you how many characters you would like between 8 and 128. If you dont select a number between 8-128, it will ask you to. If you select a valid number, next it will ask you if you would like uppercase/lowercase letters, numbers, or special characters. Once you input your password preferences it will generate a password for you. I also made comments on JavaScript describing the code's purpose/value. 
 
 
 ## Screenshot ##
